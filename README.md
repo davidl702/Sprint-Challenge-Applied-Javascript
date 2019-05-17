@@ -32,18 +32,28 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+DOM stands for Document Object Model. It represents the elements on the HTML page. It allows us to interact and manipulate the page.
+
 2. What is an event?
+
+An event is the interaction a user has with the site, such as moving the mouse, clicking objects, and scrolling up and down the site. 
 
 3. What is an event listener?
 
+Event Listener is a function that execute when an event appears, such as the click event. 
+
 4. Why would we convert a NodeList into an Array?
+
+Because it stores multiple values in a single variable.
 
 5. What is a component?
 
+Component is HTML, CSS, Javascript. 
+
 ### Git Set up
 
-* [ ] Fork the project into your GitHub user account
-* [ ] Clone the forked project into a directory on your machine
+* [x] Fork the project into your GitHub user account
+* [x] Clone the forked project into a directory on your machine
 * [ ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
 * [ ] You are now ready to build this project with your preferred IDE
 
